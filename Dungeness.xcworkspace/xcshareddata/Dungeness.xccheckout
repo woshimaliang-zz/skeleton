@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E2273CB3-E24A-4C7E-BB04-9CE6FFF46A09</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Dungeness</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9048933B589EE58F390FACCB6794A046CAE6F54F</key>
+		<string>https://github.com/woshimaliang/skeleton</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Dungeness.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9048933B589EE58F390FACCB6794A046CAE6F54F</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/woshimaliang/skeleton</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9048933B589EE58F390FACCB6794A046CAE6F54F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9048933B589EE58F390FACCB6794A046CAE6F54F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>skeleton</string>
+		</dict>
+	</array>
+</dict>
+</plist>
